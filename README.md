@@ -4,9 +4,10 @@ Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
 ● As a business manager, tried to find out the weak areas where you can  work to make more profit. 
 
-Dataset: https://bit.ly/3i4rbWl
+# DATASET:
+The dataset used for  the analysis is the ‘SampleSuperstore’ and it could be found at https://bit.ly/3i4rbWl
 
-RESULTS AND CONCLUSIONS:
+# RESULTS AND CONCLUSIONS:
 
 Profit is more than that of sales and sales is widely spread.
 
